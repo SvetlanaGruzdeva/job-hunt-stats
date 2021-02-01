@@ -1,12 +1,12 @@
-,Name position,Exp required,Appliance date,Appliance day,Appliance way,Appliance way comments,Response date,Response day,Call/Interview,Second interview,Technical interview,Technical assignment,Job Offer,Salary
+,Name position,Exp required,Application date,Application day,Application way,Application way comments,Response date,Response day,Call/Interview,Second interview,Technical interview,Technical assignment,Job Offer,Salary
 0,Data Analyst,1-3 years,2020-11-25,Wednesday,Job application,Linkedin,2020-12-07,Monday,,,,,,
 1,Junior Data Engineer,0 years,2020-12-01,Tuesday,DM to recrutier,Linkedin network,2020-12-02,Wednesday,,,,,,
-2,Junior Data Engineer,0 years,2020-12-02,Wednesday,Linkedin appliance,Linkedin network,,,,,,,,
+2,Junior Data Engineer,0 years,2020-12-02,Wednesday,Linkedin application,Linkedin network,,,,,,,,
 3,Data Analyst,3-5 years,2020-12-02,Wednesday,Job application,Linkedin,2020-12-04,Friday,,,,,,
 4,Business Analyst,,2020-12-01,Tuesday,Was contacted,Linkedin,2020-12-03,Thursday,2020-12-15,2020-12-22,,,2020-12-23,49896.0
 5,Data Engineer,3-5 years,2020-12-06,Sunday,DM to teamlead,Linkedin,2020-12-07,Monday,,,,,,
-6,Data Engineer,3-5 years,2020-12-07,Monday,Linkedin appliance,Linkedin,2020-12-16,Wednesday,,,,,,
-7,Data Engineer,1 years,2020-12-07,Monday,Linkedin appliance,Linkedin,,,,,,,,
+6,Data Engineer,3-5 years,2020-12-07,Monday,Linkedin application,Linkedin,2020-12-16,Wednesday,,,,,,
+7,Data Engineer,1 years,2020-12-07,Monday,Linkedin application,Linkedin,,,,,,,,
 8,Data Engineer,1-3 years,2020-12-07,Monday,Job application,Linkedin,2021-01-06,Wednesday,,,,,,
 9,Junior Big Data Engineer,0-2 years,2020-12-09,Wednesday,Job application,Talent,2020-12-18,Friday,2020-12-22,2021-01-19,,2021-01-22,2021-01-25,53436.0
 10,Junior Data Scientist,0 years,2020-12-09,Wednesday,Job application,Linkedin,,,,,,,,
@@ -18,7 +18,7 @@
 16,Pricing & Data Analyst,1 years,2020-12-14,Monday,DM to teamlead,Linkedin,,,,,,,,
 17,Pricing & Data Analyst,1 years,2020-12-14,Monday,Job application,Linkedin,2020-12-15,Tuesday,,,,,,
 18,Junior Data Analyst,1 years,2020-12-14,Monday,DM to teamlead,Linkedin,,,,,,,,
-19,Junior Data Analyst,0 years,2020-12-15,Tuesday,Linkedin appliance,Linkedin,,,,,,,,
+19,Junior Data Analyst,0 years,2020-12-15,Tuesday,Linkedin application,Linkedin,,,,,,,,
 20,Data Engineer,3 years,2020-12-15,Tuesday,DM to recrutier,Linkedin,,,,,,,,
 21,Data Engineer,1-3 years,2020-12-15,Tuesday,DM to teamlead,Linkedin,2020-12-28,Monday,2020-12-30,2021-01-08,2021-01-13,,,
 22,Marketing Analyst,2-3 years,2020-12-15,Tuesday,DM to teamlead,startupmap,,,,,,,,
@@ -33,7 +33,7 @@
 31,Jr. Big Data Analyst,0-2 years,2020-12-18,Friday,Job application,Linkedin,,,,,,,,
 32,Marketeer Pricing Analyst,2-3 years,2020-12-18,Friday,Job application,Indeed,2021-01-07,Thursday,2021-01-07,2021-01-25,,,,
 33,Junior Data Analyst Sales,0-1 years,2020-12-21,Monday,Job application,Linkedin,2020-12-24,Thursday,2021-01-05,2021-01-08,,2020-12-24,,
-34,Data Analyst,2 years,2020-12-21,Monday,Linkedin appliance,Linkedin,2020-12-28,Monday,,,,,,
+34,Data Analyst,2 years,2020-12-21,Monday,Linkedin application,Linkedin,2020-12-28,Monday,,,,,,
 35,Data Engineer,1-5 years,2020-12-21,Monday,Job application,Linkedin,2020-12-22,Tuesday,,,,,,
 36,Junior Python Developer | Data Scientist,0 years,2020-12-21,Monday,Job application,Linkedin,2020-12-22,Tuesday,,,,,,
 37,Senior Data Engineer,5 years,2020-12-22,Tuesday,Email to recruiter,Linkedin,2020-12-22,Tuesday,,,,,,
@@ -79,7 +79,7 @@
 77,Data Scientist,3 years,2021-01-18,Monday,Job application,Linkedin,2021-01-18,Monday,,,,,,
 78,Junior Data Engineer,0 years,2021-01-18,Monday,Job application,Linkedin,2021-01-18,Monday,2021-01-22,,,,,
 79,Data Analyst,2-3 years,2021-01-18,Monday,Job application,Linkedin,,,,,,,,
-80,Data Analyst,2-5 years,2021-01-18,Monday,Linkedin appliance,Linkedin,2021-01-21,Thursday,,,,,,
+80,Data Analyst,2-5 years,2021-01-18,Monday,Linkedin application,Linkedin,2021-01-21,Thursday,,,,,,
 81,Operations Data Analyst,2-4 years,2021-01-18,Monday,Job application,Linkedin,2021-01-20,Wednesday,,,,,,
 82,Junior Data Engineer,0 years,2021-01-19,Tuesday,Email to recruiter,Linkedin,2021-01-19,Tuesday,2021-01-19,,,,,
 83,Senior Data Analyst,4+ years,2021-01-19,Tuesday,Job application,Linkedin,,,,,,,,
